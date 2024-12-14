@@ -1,0 +1,64 @@
+{
+    "movies": [
+        {
+            "name": "pushpa-2",
+            "img": "https://m.media-amazon.com/images/M/MV5BZjI2NGQxMGMtYzQ5Mi00NTBjLWJhYzktMjE2ZDkxOTU3YWZjXkEyXkFqcGc@._V1_.jpg",
+            "reliesedate": "5-12-24",
+            "discreption": "Pushpa Raj is a self respecting young man who takes pride in his work. He works at a mill, but leaves it when his owner doesn't like his attitude outside of work. Pushpa goes for Red sanders cutting in the forest. Pushpa lives in a village with his mother Parvatamma, and is the illegitimate son of a local rich man."
+        },
+        {
+            "name": "Bhool-bhulaiya-3",
+            "img": "https://m.media-amazon.com/images/M/MV5BOTI4YTNmMGMtMDY5MS00Y2UxLWJiYWEtOTdkZGJkMmU0NzM4XkEyXkFqcGc@._V1_.jpg",
+            "reliesedate": "1 November 2024",
+            "discreption": "Bhool Bhulaiyaa 3, directed by Anees Bazmee, marks the third installment of the popular Bollywood horror-comedy series. The movie combines suspense, humor, and nostalgia to create a festive cinematic experience."
+        },
+        { 
+            "name": "thukra ke mera pyaar",
+            "img": "https://m.media-amazon.com/images/M/MV5BZmEyNmY5YTQtZGFiYy00YmY5LWI5MjAtMzBlYmMyZmFjMGRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "reliesedate": "22 november 2024",
+            "discreption": "Thukra Ke Mera Pyaar is a Hindi drama series streaming on Disney+ Hotstar on November 22, 2024. The series stars Dhaval Thakur as Kuldeep and Sanchita Basu as Shanvika.[1][2] The story revolves around two young lovers from different backgrounds and societal standards, whose love story is marred by family feuds rooted in caste and class differences.[3]"
+        },
+        {
+            "name": "the sabarmati report",
+            "img": "https://www.sacnilk.com/image/bunnyimagemovie.php?year=2024&movieid=11150",
+            "reliesedate": "15 November 2024",
+            "discreption": "The Sabarmati Report, in its examination of the Godhra train incident provides an analysis of the events leading up to and following the tragic attack on the Sabarmati Express on February 27, 2002, in which 59 people, mostly Hindu pilgrims, were killed when a coach of the train was set on fire."
+        },
+        {
+            "name": "Lucky bhaskar",
+            "img": "https://www.moviespuzzle.com/wp-content/uploads/2024/10/Lucky-Bhaskar-Movie-Trailer-Release-date-819x1024.jpg",
+            "reliesedate": "31 October 2024",
+            "discreption": "The film stars Dulquer Salmaan as Baskhar Kumar, a lower-middle-class man who struggles to support his family while battling debt and humiliation, from 1989 to 1992. Desperate to escape his hand-to-mouth existence, Baskar begins to engage in financial scams."
+        },
+        {
+            "name": "La La land",
+            "img": "https://i.namu.wiki/i/6ixD970B2txOaUpAHT_H0wrNQ348KJLYmf6sgEx4xS0T_TDt7gC0VtFgTrpkpwXWjVR8OHf_C87TWRSamusswA.webp",
+            "reliesedate": "9 December 2016",
+            "discreption": "La La Land is a 2016 American musical romantic comedy-drama film written and directed by Damien Chazelle. It stars Ryan Gosling and Emma Stone as a struggling jazz pianist and an aspiring actress who meet and fall in love while pursuing their dreams in Los Angeles.   "
+        },
+        {
+            "name": "KGF chapater 2",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsaLg_N15eIV3rasWV9tRY_zql-1r__AWTEp2A8h3mnQzl0S95D1skDsvne_2M2v5K9P8&usqp=CAU",
+            "reliesedate": "14 April 2022",
+            "discreption": "The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their savior, the government sees him as a threat to law and order; enemies are clamoring for revenge and conspiring for his downfall."
+        },
+        {
+            "name": "Stree 2",
+            "img": "https://upload.wikimedia.org/wikipedia/en/a/a1/Stree_2.jpg",
+            "reliesedate": "15 August 2024",
+            "discreption": "Plot. Following the events of the first film, Stree leaves Chanderi. Years later, Chanderi faces a new threat in the form of Sarkata, a headless ghost, who abducts women at night. The townspeople, unaware of this, mistakenly believe the missing women have left for better prospects."
+        },
+        {
+            "name": "Singham again",
+            "img": "https://assets.timelinedaily.com/w/1203x902/2024/11/singham-again-1200x900.jpg.webp",
+            "reliesedate": "1 November 2024",
+            "discreption": "Eba Fatima Azeem of News 24 rated 3/5 stars and opined Singham Again is a swaggering, action-packed film with a Ramayana-inspired theme and is ideal for fans. Even with its predictable story, it delivers exactly what you'd expect."
+        },
+        {
+            "name": "Yodha",
+            "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Yodha_film_poster.jpg/220px-Yodha_film_poster.jpg",
+            "reliesedate": "15 March 2024",
+            "discreption": "The story unfolds with Arun Katyal, a proud son determined to carry on the legacy of his father's (Ronit Roy) special task force, Yodha. However, after failing at a critical mission, he is on board a hijacked flight under mysterious circumstances."
+        }
+    ]
+}
